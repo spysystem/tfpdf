@@ -13,5 +13,8 @@
     ],
     "autoload": {
         "psr-0": { "tFPDF": "src/" }
+    },
+    "require": {
+        "php": "8.0 - 8.1"
     }
 }
